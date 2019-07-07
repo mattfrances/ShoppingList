@@ -2,16 +2,16 @@
 Learned how to use Electron through following YouTube tutorial https://www.youtube.com/watch?v=kN1Czs0m1SU
 
 ## Getting Started
-Clone to repository
-<br>
-Move into the ShoppingList folder, in this folder, perform the following instructions from the command line
-<br>
-Download dependencies
+1. Clone to repository
+<br><br>
+2. Move into the ShoppingList folder, in this folder, perform the following instructions from the command line
+<br><br>
+3. Download dependencies
 ```sh
 $ npm install
 ```
 
-Run Electron 
+4. Run Electron 
 ```sh
 $ npm start
 ```
