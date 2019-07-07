@@ -12,7 +12,7 @@ $ npm install
 ```
 <br>
 
-4. Run Electron 
+4. Run the app from Command Line
 ```sh
 $ npm start
 ```
