@@ -20,15 +20,15 @@ $ npm start
 ## Create the Desktop App
 Mac
 ```sh
-$ npm package-mac
+$ npm run package-mac
 ```
 Windows
 ```sh
-$ npm package-win
+$ npm run package-win
 ```
 Linux
 ```sh
-$ npm package-linux
+$ npm run package-linux
 ```
 <br>
 The application will now appear with a shopping cart icon. Open it to begin using the app
