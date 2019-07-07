@@ -10,7 +10,7 @@ Learned how to use Electron through following YouTube tutorial https://www.youtu
 ```sh
 $ npm install
 ```
-
+<br>
 4. Run Electron 
 ```sh
 $ npm start
