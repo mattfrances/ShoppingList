@@ -30,4 +30,4 @@ Linux
 $ npm run package-linux
 ```
 <br>
-A new folder will be created called "release-builds", continue in that folder until the application with the shopping cart icon is found
+A new folder will be created called "release-builds", continue in that folder until you find the application with the shopping cart icon 
